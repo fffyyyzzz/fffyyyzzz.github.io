@@ -57,7 +57,7 @@ html {
 
 body {
   font-size: 100%;
-  background-image: linear-gradient(to bottom, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+  background-image: linear-gradient(to bottom, #f78ca0 0%, #f9748f 19%, #f59870 60%, #fe9a8b 100%);
   padding: 20px;
   font-family: 'Inconsolata', monospace; }
   @media screen and (max-width: 48em) {
@@ -70,7 +70,7 @@ a {
   position: relative;
   transition: .3s color; }
   a:hover {
-    color: #fd868c; }
+    color: #f59870; }
 
 body, h1, h2, h3, h4, h5, h6 {
   font-size-adjust: 0.5; }
@@ -132,7 +132,7 @@ h4 {
     content: "";
     width: 120px;
     height: 10px;
-    background-color: #fd868c;
+    background-color: #f59870;
     display: block;
     position: absolute;
     left: -10px;
@@ -173,7 +173,7 @@ h4 {
     content: "\2022";
     position: absolute;
     left: 0;
-    color: #fd868c; }
+    color: #f59870; }
 
 .bullet-list a {
   text-decoration: underline; }
@@ -897,7 +897,7 @@ h4 {
 .s-about .portfolio-img {
   width: 100%;
   max-width: 300px;
-  box-shadow: 8px 8px 0px 0px #fd868c; }
+  box-shadow: 8px 8px 0px 0px #f59870; }
 
 .s-about .portfolio-img-wrapper a {
   margin-top: 30px;
@@ -930,7 +930,7 @@ h4 {
     z-index: 1;
     text-decoration: none; }
     .s-about .social-list a:before {
-      background-color: #fd868c;
+      background-color: #f59870;
       bottom: 0;
       content: ' ';
       display: block;

@@ -148,6 +148,7 @@ h4 {
   color: #fe9a8b; }
 
 .highlight-link {
+  text-decoration: underline
   transition: .3s color; }
   .highlight-link span {
     display: inline-block;

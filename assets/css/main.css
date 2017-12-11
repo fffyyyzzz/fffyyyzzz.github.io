@@ -59,7 +59,7 @@ body {
   font-size: 100%;
   background-image: linear-gradient(to bottom, #fbbb5b 0%, #f9748f 19%, #f59870 60%, #fe9a8b 100%);
   padding: 20px;
-  font-family: 'Inconsolata', monospace; }
+  font-family: 'Helvetica', monospace; }
   @media screen and (max-width: 48em) {
     body {
       padding: 0; } }

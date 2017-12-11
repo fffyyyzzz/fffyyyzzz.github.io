@@ -884,9 +884,9 @@ h4 {
 .page-wrapper {
   height: 100%;
   width: 100%;
-  background: #232630 url(../img/bg-pattern.png) center top repeat-y;
+  background: #ffffff url(../img/bg-pattern.png) center top repeat-y;
   padding: 40px 20px;
-  color: #fff;
+  color: #232630;
   font-size: 1em;
   line-height: 1.25; }
   @media screen and (min-width: 48em) {
